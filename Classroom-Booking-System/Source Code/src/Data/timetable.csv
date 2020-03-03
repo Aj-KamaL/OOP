@@ -1,0 +1,21 @@
+Mandatory/Elective,Course Name,Course Code,Instructor,Credits,Acronym,Monday Time,Tueday Time,Wednesday Time,Thurday Time,Friday Time
+Mandatory,Discrete Mathematics,CSE121,Donghoon Chang,4,DM,-,13:30-15:00$C21,-,-,11:30-13:00$C21
+Mandatory,Advanced Programming,CSE201,Vivek Kumar,4,AP,11:00-12:00$C21,-,11:00-12:00$C21,11:00-12:00$C21,-
+Mandatory,Computer Organization,CSE112,Naveen Prakash(G),4,CO,-,-,14:30-16:00$C21,16:00-17:30$C01,-
+Elective,Maths-III,MTH203,Sarthok Sircar,4,M-III,-,15:00-16:00$C21,-,15:00-16:00$C21,15:00-16:00$C21
+Elective,Signal & Systems,ECE250,Anubha Gupta,4,S&S,-,11:00-12:00$C21,-,14:00-15:00$C21,14:00-15:00$C21
+Elective,Real Analysis I,MTH2xx,Samaresh Chatterji(V),4,RA,15:00-16:00$C02,10:00-11:00$C02,-,10:00-11:00$C02,-
+Elective,Number Theory,MTH2xx,Anuradha Sharma,4,NT,10:00-11:00$C12,-,10:00-11:00$C12,-,09:30-10:30$C12
+Elective,Perspectives of Knowledge,HSS202,Raj Ayyar (V),4,PoK,16:00-17:30$C24,-,16:00-17:30$C24,-,-
+Elective,Introduction to Psychology,HSS204,Akshay Kumar(V),4,Psy,16:00-17:30$C01,-,16:00-17:30$C01,-,-
+Elective,Theatre Apperciation,HSS211,Manohar Khushlani(V),4,TA,16:00-17:30$C12,-,16:00-17:30$C12,-,-
+Elective,Key Concepts in Economic Sociology,HSS2ES,Amrit Srinivasan(V),4,ES,-,16:00-17:30$C24,-,-,16:00-17:30$C24
+Elective,Introduction to Digital Ethonography(New),HSS2xx,Shriram Venkatraman,4,IDE,16:00-17:30$C11,-,16:00-17:30$C11,-,-
+Elective,Introduction to Meida In Society: A Public Sphere Approach,HSS2xx,Aasim Khan,4,IMS,-,16:00-17:30$C03,-,-,16:00-17:30$C03
+Elective,Introduction to Socail Informatics(New),HSS2xx,Venkata Ratandeep Suri,4,ISI,-,16:00-17:30$C13,-,-,16:00-17:30$C13
+Elective,Introduction to Poetry,HSS223A,Saumya Kulshreshtha(G),2,PO,-,16:30-18:00$C02,-,-,-
+Elective,Theory & Practice of Engineering Ethics,HSS208,Raj Ayyar (V),4,TPEE,-,16:00-17:30$C22,-,-,16:00-17:30$C22
+Mandatory,Embeded Logic Design,ECE270,Sumit Darak,4,ELD,12:00-13:00$C21,12:00-13:00$C21,-,12:00-13:00$C21,-
+Mandatory,Circuit Theory and Devices,ECE215,M S Hashmi,4,CTD,09:30-11:00$C21,09:30-11:00$C21,-,-,-
+Mandatory,Discrete Mathematics(CSAM),MTH2xx,Rajiv Raman,4,DM,-,13:30-15:00$C02,-,08:30-10:00$C12,-
+Mandatory,Computer Architecture and Operating Systems,CSE2xx,Bijoy Chand Chaterjee(V),4,CAOS,-,15:00-16:00$C02,-,13:30-15:00$C02,13:30-15:00$C02

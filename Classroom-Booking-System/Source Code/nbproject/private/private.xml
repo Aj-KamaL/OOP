@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Institute.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Student.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/StudentController.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/Student.fxml</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/TimeTable.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Data/timetable.csv</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Admin.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/MyExceptions/WrongCredentials.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/Tabs.css</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Mail.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/User.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/App.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/MyExceptions/UserAlreadyExists.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Course.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Booking.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/LoginController.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Data/course.csv</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/AdminController.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/XMLMain.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Faculty.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/Faculty.fxml</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/Application/Room.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/FacultyController.java</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/Login.fxml</file>
+            <file>file:/C:/Users/kaust/Documents/NetBeansProjects/AP-Project-Try-1/src/XMLs/table.css</file>
+        </group>
+    </open-files>
+</project-private>
